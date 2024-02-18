@@ -41,7 +41,7 @@ def main():
     myTurtle.speed(10)  # adjust the drawing speed here
     myWin = turtle.Screen() #creating window for Turtle
     myWin.bgcolor("gray") #window to have a black background
-    myWin.tracer(0) #see end product without animations
+    #myWin.tracer(0) #see end product without animations
 
     # 3 points of the first triangle based on [x,y] coordinates
     myPoints = [[-200, -50], [0, 200], [200, -50]]
