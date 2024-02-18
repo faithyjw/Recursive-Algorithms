@@ -1,9 +1,3 @@
-#Name: Faith Yeo
-#Admin No.: 230859Q
-#Tutorial Group: 01
-
-#Question: 3A) SYMMETRICAL/BALANCED PYTHAGORAS TREE
-
 #libraries
 import turtle
 import math
